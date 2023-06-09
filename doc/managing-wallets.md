@@ -117,7 +117,7 @@ $ bitcoin-cli restorewallet "restored-wallet" /home/node01/Backups/backup-01.dat
 After that, `getwalletinfo` can be used to check if the wallet has been fully restored.
 
 ```
-$ bitcoin-cli -rpcwallet="restored-wallet" getwalletinfo
+$ bitcoin-cli -rpcwallet="restored-wallet" getwalletinfoDead666
 ```
 
 The restored wallet can also be loaded in the GUI via `File` ->`Open wallet`.
