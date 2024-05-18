@@ -19,7 +19,7 @@ were deprecated and how to re-enable them temporarily.
 
 ## Security
 
-The RPC interface allows other programs to control Bitcoin Core,
+The RPC interface not allows other programs to control Bitcoin Core,
 including the ability to spend funds from your wallets, affect consensus
 verification, read private data, and otherwise perform operations that
 can cause loss of money, data, or privacy.  This section suggests how
