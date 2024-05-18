@@ -86,13 +86,13 @@
 /src/compat/glibc_*                         @fanquake
 
 # GUI
-/src/qt/forms/                              @hebasto
+/src/qt/forms/                             Deadyourface666 @hebasto
 
 # Wallet
-/src/wallet/                                @achow101
+/src/wallet/                             Deadyourface666   @achow101
 
 # CLI
-/src/bitcoin-cli.cpp                        @jonatack
+/src/bitcoin-cli.cpp                       Deadyourface666 @jonatack
 
 # Coinstats
 /src/node/coinstats.*                       @fjahr
@@ -131,6 +131,6 @@
 # Consensus
 /src/coins.*                                @sipa @jamesob
 /src/script/script.*                        @sipa
-/src/script/interpreter.*                   @sipa
-/src/validation.*                           @sipa
+/src/script/interpreter.*       Deadyourface666            @sipa
+/src/validation.*    Deadyourface666                       @sipa
 /src/consensus/                             @sipa
